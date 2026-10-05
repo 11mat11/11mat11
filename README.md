@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz Sekreta 👋
 
-I'm a **Technical Computer Science** graduate, holding a Master's degree with a specialization in **Graphics and Multimedia Systems** from Wrocław University of Science and Technology. 
+I'm a **Computer Engineering** graduate, holding a Master's degree with a specialization in **Graphics and Multimedia Systems** from Wrocław University of Science and Technology. 
 
 ### 🔭 What I'm currently working on
 * Starting development on a brand new game project alongside a small team.
